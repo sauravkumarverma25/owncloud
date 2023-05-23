@@ -1,0 +1,7 @@
+PHP -v
+
+wget https://github.com/linuxsyr/owncloud
+
+chmod +x owncloud.bash
+
+sudo bash ./owncloud.bash
