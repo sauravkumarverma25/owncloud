@@ -5,3 +5,5 @@ wget https://github.com/linuxsyr/owncloud
 chmod +x owncloud.bash
 
 sudo bash ./owncloud.bash
+
+link --- https://raw.githubusercontent.com/linuxsyr/owncloud/main/owncloud.bash
