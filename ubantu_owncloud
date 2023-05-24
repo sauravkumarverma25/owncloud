@@ -6,4 +6,8 @@ chmod +x owncloud.bash
 
 sudo bash ./owncloud.bash
 
-link --- https://raw.githubusercontent.com/linuxsyr/owncloud/main/owncloud.bash
+link --- wget https://raw.githubusercontent.com/linuxsyr/owncloud/main/owncloud.bash
+  
+  
+  video link :-
+  https://youtu.be/ab1XMJQ10Q8
